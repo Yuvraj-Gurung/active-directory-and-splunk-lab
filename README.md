@@ -78,6 +78,11 @@ This project demonstrates how to integrate **Active Directory with Splunk** for 
 <img src="project/image53.png"> <img src="project/image54.png"> <img src="project/image55.png"> <img src="project/image56.png"> <img src="project/image57.png"> <img src="project/image58.png"> <img src="project/image59.png"> <img src="project/image60.png"> <img src="project/image61.png"> <img src="project/image62.png"> <img src="project/image63.png"> <img src="project/image64.png"> <img src="project/image65.png">
 
 
+**Splunk Configuration**
+
+<img src="project/image66.png"> <img src="project/image67.png"> <img src="project/image68.png"> <img src="project/image69.png"> <img src="project/image70.png"> <img src="project/image71.png"> <img src="project/image72.png"> <img src="project/image73.png"> <img src="project/image74.png"> <img src="project/image75.png"> <img src="project/image76.png"> <img src="project/image77.png"> <img src="project/image78.png">
+
+
 
 
 
