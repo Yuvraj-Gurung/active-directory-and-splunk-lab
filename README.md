@@ -1,4 +1,4 @@
-# **Active Directory and Splunk Cybersecurity Project Documentation**
+# **Active Directory and Splunk Cybersecurity Lab**
 
 ## **Project Overview**  
 The purpose of this project is to integrate **Active Directory (AD)** with **Splunk** for efficient security monitoring and threat detection. The setup involves **Windows Server 2022, Windows 10, Ubuntu Server**, and key security tools such as **Sysmon, Atomic Red Team, and Splunk** to simulate real-world attack scenarios and analyze security events.
