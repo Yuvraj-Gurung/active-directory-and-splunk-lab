@@ -88,6 +88,23 @@ This project demonstrates how to integrate **Active Directory with Splunk** for 
 <img src="project/image79.png"> <img src="project/image80.png"> <img src="project/image81.png"> <img src="project/image82.png"> <img src="project/image83.png"> <img src="project/image84.png"> <img src="project/image85.png"> <img src="project/image86.png"> <img src="project/image87.png"> <img src="project/image88.png"> <img src="project/image89.png"> <img src="project/image90.png"> <img src="project/image91.png"> <img src="project/image92.png"> <img src="project/image93.png"> <img src="project/image94.png"> <img src="project/image95.png"> <img src="project/image96.png"> <img src="project/image97.png"> <img src="project/image98.png"> <img src="project/image99.png"> <img src="project/image100.png"> <img src="project/image101.png"> <img src="project/image102.png"> <img src="project/image103.png"> <img src="project/image104.png"> <img src="project/image105.png"> <img src="project/image106.png"> <img src="project/image107.png"> <img src="project/image108.png"> <img src="project/image109.png"> <img src="project/image110.png"> <img src="project/image111.png"> <img src="project/image112.png"> <img src="project/image113.png"> <img src="project/image114.png"> <img src="project/image115.png"> <img src="project/image116.png"> <img src="project/image117.png"> <img src="project/image118.png"> <img src="project/image119.png"> <img src="project/image120.png"> <img src="project/image121.png"> <img src="project/image122.png"> <img src="project/image123.png"> <img src="project/image124.png">
 
 
+**Atomic Red Team Installation**
+
+<img src="project/image125.png"> <img src="project/image126.png"> <img src="project/image127.png"> <img src="project/image128.png">
+
+
+**MITRE ATT&CK FRAMEWORK**
+
+<img src="project/image129.png"> <img src="project/image130.png">
+
+**Running Atomic Red Team Tests/Viewing Logs_Alerts in Splunk**
+
+<img src="project/image131.png"> <img src="project/image132.png"> <img src="project/image133.png"> <img src="project/image134.png"> <img src="project/image135.png">
+
+
+
+
+
 
 
 
