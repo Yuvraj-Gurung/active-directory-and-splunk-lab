@@ -50,3 +50,24 @@ The purpose of this project is to integrate **Active Directory (AD)** with **Spl
 
 ## **Conclusion**  
 This project demonstrates how to integrate **Active Directory with Splunk** for effective cybersecurity monitoring. By utilizing **Sysmon and Atomic Red Team**, SOC analysts can **simulate attacks, analyze threats, and improve defenses** in a Windows environment.
+
+
+## *Walkthrough | Screenshots*
+
+**Installing Windows Server 2022**
+
+<img src="project/image1.png"> <img src="project/image2.png"> <img src="project/image3.png"> <img src="project/image4.png"> <img src="project/image5.png"> <img src="project/image6.png"> <img src="project/image7.png"> <img src="project/image8.png"> <img src="project/image9.png"> <img src="project/image10.png"> <img src="project/image11.png"> <img src="project/image12.png"> <img src="project/image13.png"> <img src="project/image14.png">
+
+**Installing Windows 10**
+
+<img src="project/image15.png"> <img src="project/image16.png"> <img src="project/image17.png"> <img src="project/image18.png"> <img src="project/image19.png"> <img src="project/image20.png"> <img src="project/image21.png"> <img src="project/image22.png"> <img src="project/image23.png"> <img src="project/image24.png"> <img src="project/image25.png"> <img src="project/image26.png"> <img src="project/image27.png"> <img src="project/image28.png">
+
+
+**Ubuntu Server 24.04.1 Installation**
+
+<img src="project/image29.png"> <img src="project/image30.png"> <img src="project/image31.png"> <img src="project/image32.png"> <img src="project/image33.png"> <img src="project/image34.png"> <img src="project/image35.png"> <img src="project/image36.png"> <img src="project/image37.png"> <img src="project/image38.png"> <img src="project/image39.png"> <img src="project/image40.png"> <img src="project/image41.png"> <img src="project/image42.png"> <img src="project/image43.png">
+
+
+
+
+
