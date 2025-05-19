@@ -3,7 +3,6 @@
 ## **Project Overview**  
 The purpose of this project is to integrate **Active Directory (AD)** with **Splunk** for efficient security monitoring and threat detection. The setup involves **Windows Server 2022, Windows 10, Ubuntu Server**, and key security tools such as **Sysmon, Atomic Red Team, and Splunk** to simulate real-world attack scenarios and analyze security events.
 
----
 
 ## **Architecture Diagram**  
 ### Components Involved:
@@ -14,7 +13,6 @@ The purpose of this project is to integrate **Active Directory (AD)** with **Spl
 5. **Sysmon** – System Monitoring to log critical events
 6. **Atomic Red Team** – Simulates adversarial techniques for testing defenses
 
----
 
 ## **Installation & Configuration Guide**  
 ### **1. Setting Up Active Directory (AD) on Windows Server 2022**  
@@ -43,14 +41,12 @@ The purpose of this project is to integrate **Active Directory (AD)** with **Spl
 2. Develop **Splunk dashboards** for real-time monitoring.
 3. Create **correlation searches** to detect suspicious activities.
 
----
 
 ## **Testing & Validation**  
 - Perform **login brute-force attacks** and check logs.
 - Simulate **malicious PowerShell executions** and ensure they are logged.
 - Validate that Splunk **alerts** trigger on **suspicious activities**.
 
----
 
 ## **Conclusion**  
 This project demonstrates how to integrate **Active Directory with Splunk** for effective cybersecurity monitoring. By utilizing **Sysmon and Atomic Red Team**, SOC analysts can **simulate attacks, analyze threats, and improve defenses** in a Windows environment.
